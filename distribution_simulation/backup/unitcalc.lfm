@@ -1,0 +1,42 @@
+object FormCalc: TFormCalc
+  Left = 237
+  Height = 171
+  Top = 314
+  Width = 354
+  Caption = 'Calculator'
+  ClientHeight = 171
+  ClientWidth = 354
+  LCLVersion = '3.0.0.1'
+  object Edit1: TEdit
+    Left = 64
+    Height = 23
+    Top = 22
+    Width = 216
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 65
+    Height = 23
+    Top = 66
+    Width = 216
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 65
+    Height = 25
+    Top = 120
+    Width = 103
+    Caption = '+'
+    OnClick = Button1Click
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 184
+    Height = 25
+    Top = 120
+    Width = 96
+    Caption = '-'
+    OnClick = Button2Click
+    TabOrder = 3
+  end
+end

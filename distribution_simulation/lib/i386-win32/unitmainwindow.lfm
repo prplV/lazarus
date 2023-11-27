@@ -1,0 +1,28 @@
+object FormMain: TFormMain
+  Left = 236
+  Height = 154
+  Top = 120
+  Width = 353
+  Caption = 'Main Menu'
+  ClientHeight = 154
+  ClientWidth = 353
+  LCLVersion = '2.2.6.0'
+  object ButtonStartDemo: TButton
+    Left = 48
+    Height = 25
+    Top = 25
+    Width = 256
+    Caption = 'Демо-версия'
+    OnClick = ButtonStartDemoClick
+    TabOrder = 0
+  end
+  object ButtonStartFull: TButton
+    Left = 48
+    Height = 25
+    Top = 80
+    Width = 256
+    Caption = 'Полная версия'
+    OnClick = ButtonStartFullClick
+    TabOrder = 1
+  end
+end

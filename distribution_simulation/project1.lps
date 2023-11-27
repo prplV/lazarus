@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitmainwindow.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitMainWindow"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="24"/>
+        <CursorPos X="55" Y="64"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitcalc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormCalc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitCalc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="32" Y="65"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="f1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="f2.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="39" Column="18" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="40" Column="26" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="39" Column="11" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="45" Column="3" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="50" Column="17" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="49" Column="17" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="22" Column="16" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="21" Column="16" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="33" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="50" Column="23" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="16" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="58" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="69" Column="25" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="49" Column="12" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="62" Column="16" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="56" Column="29" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="77" Column="37" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unitcalc.pas"/>
+        <Caret Line="71" Column="6" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="63" Column="22" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="44" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="49" Column="7" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="62" Column="10" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="60" Column="37" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="61" Column="36" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="60" Column="34" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="68" Column="29" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="64" Column="32" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="34" Column="50" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="64" Column="30" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmainwindow.pas"/>
+        <Caret Line="67" Column="8" TopLine="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
